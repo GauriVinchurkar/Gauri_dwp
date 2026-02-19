@@ -57,7 +57,7 @@ AI-Based Flood Prediction System for Disaster Preparedness
 ---
 
 
-## 👩‍💻 Author
+##  Author
 
 Gauri Vinchurkar 
 AIDS-A-05 
