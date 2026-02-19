@@ -1,14 +1,14 @@
-# 🌊 Flood Prediction System
+# Flood Prediction System
 
 ---
 
-## 🔗 Overview
+##  Overview
 
 This project is a front-end implementation of an **AI-Based Flood Prediction System** designed to demonstrate how disaster management and early warning systems can be handled through a digital platform.
 
 ---
 
-## 🔗 Features
+##  Features
 
 - Secure Login Interface  
 - Flood Monitoring Dashboard  
@@ -20,7 +20,7 @@ This project is a front-end implementation of an **AI-Based Flood Prediction Sys
 
 ---
 
-## 🔗 Technologies Used
+## Technologies Used
 
 - HTML5  
 - CSS3  
@@ -28,25 +28,25 @@ This project is a front-end implementation of an **AI-Based Flood Prediction Sys
 
 ---
 
-## 🔗 Project Objective
+## Project Objective
 
 The objective of this project is to design a web-based interface for a flood prediction system that helps monitor environmental conditions and provide early warning alerts to reduce disaster impact.
 
 ---
 
-## 🔗 Domain
+##  Domain
 
 Disaster Management Systems  
 
 ---
 
-## 🔗 Research Paper Reference
+## Research Paper Reference
 
 AI-Based Flood Prediction System for Disaster Preparedness  
 
 ---
 
-## 🔗 Pages Included
+##  Pages Included
 
 - Home Page  
 - Login Page  
@@ -56,16 +56,8 @@ AI-Based Flood Prediction System for Disaster Preparedness
 
 ---
 
-## 🔗 Future Enhancements
-
-- Integration with real-time weather API  
-- Map-based flood visualization  
-- SMS / Email alert system  
-- Machine Learning backend integration  
-
----
 
 ## 👩‍💻 Author
 
-Your Name  
-Roll Number  
+Gauri Vinchurkar 
+AIDS-A-05 
